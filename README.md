@@ -3,7 +3,7 @@
 
 Ever wondered how Netflix or Google suggests movies similar to the ones you like? This repository demonstrates how to build a **Movie Recommendation System** using different techniques, including **Popularity-Based**, **Content-Based**, and **Collaborative Filtering** approaches.  
 
-In this repository, we implement a **Content-Based Recommendation Engine** using the **Scikit-Learn** library. You’ll learn how to compute movie similarities based on features like cast, director, genres, and keywords to recommend movies tailored to user preferences.
+In this repository, we implement a **Content-Based Recommendation Engine** using the **Scikit-Learn** library. It shows how to compute movie similarities based on features like cast, director, genres, and keywords to recommend movies tailored to user preferences.
 
 ---
 
